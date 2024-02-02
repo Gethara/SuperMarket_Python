@@ -1,0 +1,4 @@
+Apple 50
+Mango 20
+Banana 100
+Coconut 200

@@ -1,0 +1,4 @@
+Apple 80
+Mango 60
+Banana 20
+Coconut 100

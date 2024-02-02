@@ -1,0 +1,5 @@
+   NIC               TP number            Date              First Name          Last Name           Address line 1      Address line 2      Adress line 3       E mail
+                                      
+200168400743        0711234567          2021-09-27          Leesa               Perera              No.43               Temple Rd           Wattala             leesa@gmail.com     
+891234567v          0779876543          2021-09-27          John                Mendis              No.34/56            Galle Rd            Moratuwa            john@gmail.com      
+200145200843        0713458762          2021-09-27          Mala                Fernando            45                  Mabola              wattala                                 
